@@ -5,23 +5,24 @@ The voice assistant will leverage OpenAI's cutting-edge Whisper technology to ac
 1. OpenAI's Whisper
 2. Streamlit 
 3. Eleven Labs'API
+4. Langchain
 
 ## Important for Installation
-You must have an account on both OpenAi and Eleven's Lab and also DeepLake
-![alt text]()
+You must have an account on both OpenAi and Eleven's Lab and also DeepLake 
+
 
 ## Important before launching
 
 1. Run the scrape.py script to embed the Intercom articles first
 
-        python scrape.py
+        python web.py
 
 2. Start the app 
 
         streamlit run chat.py
 
-
-
+# Result
+![alt text]()
 
 
 
