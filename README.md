@@ -8,7 +8,7 @@ The voice assistant will leverage OpenAI's cutting-edge Whisper technology to ac
 4. Langchain
 
 ## Important for Installation
-You must have an account on both OpenAi and Eleven's Lab and also DeepLake 
+You must have an account on both OpenAi and Eleven's Lab.
 
 
 ## Important before launching
