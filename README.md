@@ -22,6 +22,8 @@ You must have an account on both OpenAi and Eleven's Lab and also DeepLake
         streamlit run chat.py
 
 # Result
+As you can see the image below, there is the voice has been generated.
+#
 ![alt text](https://github.com/saag7/Voice-Assistant/blob/main/Screenshot%202024-09-14%20162508.png)
 
 
